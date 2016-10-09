@@ -1,0 +1,4 @@
+#Datatypes
+Almost all programming languages (with a few exceptions) work with data like numbers, strings, arrays, etc. These are simply ways to store information; but programming languages differ based on _how_ they interact with this information. Some languages (like Javascript) allow **type coercion**; they allow different types to mix together (for example, you can add a number to a string and get a string). Other languages (like Julia) require that you convert data to specific types for most functions.
+
+Julia has _way_ more types that most other programming languages. However, they can generally be split into a few categories, each of which will be explained in further detail in the upcoming chapters.
