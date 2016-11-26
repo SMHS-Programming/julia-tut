@@ -3,9 +3,9 @@ Welcome to the tutorial for Julia, made by Ben Pang for the SMHS Programming Clu
 
 ## The Julia toolkit
 
-- [Open up an account on JuliaBox](juliabox.org) or [install Julia locally on your computer](http://julialang.org/downloads/). It is recommended that you do both so you can program at school, familiarize yourself with the terminal.
+- [Open up an account on JuliaBox](juliabox.org) or [install Julia locally on your computer](http://julialang.org/downloads/). It is recommended that you do both so you can program at school _and_ familiarize yourself with the terminal.
 - If you really want to, get [the Atom code editor](https://atom.io/) (installing [Juno](http://junolab.org/) after). If you _really_ want a challenge, install and learn [Vim](http://vim.org) or [Neovim](https://neovim.io/).
-- Get familiar with the [Julia docs](http://docs.julialang.org). Just make sure you know how to get around the docs.
+- Get familiar with the [Julia docs](http://docs.julialang.org). Just make sure you know where everything is, what the important sections are, etc.
 - Google is your friend. I'm not kidding; you'd be quite surprised to see the amount of beginners who give up on a programming task without using Google.
 - [StackOverflow](https://stackoverflow.com) (and [StackExchange](https://stackexchange.com) in general) is a good place to get help. [PPCG.SE](https://codegolf.stackexchange.com) is a great place to practice if you're into/interested in code-golfing. (I happen to be a regular there, so you'll see me around.)
 
