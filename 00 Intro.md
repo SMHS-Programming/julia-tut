@@ -1,7 +1,7 @@
-#Introduction
+# Introduction
 Welcome to the tutorial for Julia, made by Ben Pang for the SMHS Programming Club of 2016-2017.
 
-##The Julia toolkit
+## The Julia toolkit
 
 - [Open up an account on JuliaBox](juliabox.org) or [install Julia locally on your computer](http://julialang.org/downloads/). It is recommended that you do both so you can program at school, familiarize yourself with the terminal.
 - If you really want to, get [the Atom code editor](https://atom.io/) (installing [Juno](http://junolab.org/) after). If you _really_ want a challenge, install and learn [Vim](http://vim.org) or [Neovim](https://neovim.io/).
@@ -9,7 +9,7 @@ Welcome to the tutorial for Julia, made by Ben Pang for the SMHS Programming Clu
 - Google is your friend. I'm not kidding; you'd be quite surprised to see the amount of beginners who give up on a programming task without using Google.
 - [StackOverflow](https://stackoverflow.com) (and [StackExchange](https://stackexchange.com) in general) is a good place to get help. [PPCG.SE](https://codegolf.stackexchange.com) is a great place to practice if you're into/interested in code-golfing. (I happen to be a regular there, so you'll see me around.)
 
-##So, what is Julia?
+## So, what is Julia?
 Julia is a scientific computing language that has a whole lot of other uses (robotics, web servers, etc.). It is a _really_ new language - an infant by programming language standards, as it was born circa 2011. For comparison, one of the oldest programming languages, Lambda Calculus, was proposed in the 1940s; most programming languages that we know today (C, C++, C#, Fortran, Haskell, Python, Javascript, etc.) were proposed in the 1970s to early 2000s.
 
 If you have programmed in other languages, you will see with little effort that Julia is _fast_. Like, as fast as C. Which means that it's _really, really fast_. Why it's fast is for another time.
