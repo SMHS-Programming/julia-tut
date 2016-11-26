@@ -16,7 +16,7 @@ The following bitwise operators only work on integers by default.
 ## AND `&`
 Takes 2 integers and applies the following truth table:
 
-#|1|0
+`#`|1|0
 ---|---|---|
 **1** |1|0
 **0** |0|0
@@ -35,7 +35,7 @@ Apply AND:
 ## OR `|`
 Takes 2 integers and applies the following truth table:
 
-#|1|0
+`#`|1|0
 ---|---|---|
 **1** |1|1
 **0** |1|0
@@ -54,7 +54,7 @@ Apply OR:
 ## XOR `$`
 Takes 2 integers and applies the following truth table:
 
-#|1|0
+`#`|1|0
 ---|---|---|
 **1** |0|1
 **0** |1|0
