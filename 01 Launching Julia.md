@@ -16,7 +16,7 @@ sudo apt-get update
 sudo apt-get install julia
 ```
 
-After, you can run a Julia REPL by typing `julia` in the terminal.
+After, you can run any file ending in `.jl` using Julia, or use the REPL by typing `julia` in a terminal.
 
 ## JuliaBox
 Click the Terminal tab. You now have a Bash terminal to use. To launch the Julia REPL, simply type `julia` in the prompt. Exit the REPL using `exit()`.
