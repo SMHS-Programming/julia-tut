@@ -13,7 +13,7 @@ Once the workspace is finished initializing, locate a terminal (`Alt+T`) and pas
 sudo add-apt-repository ppa:staticfloat/juliareleases
 sudo add-apt-repository ppa:staticfloat/julia-deps
 sudo apt-get update
-sudo apt-get install julia
+sudo apt-get install libgmp3-dev julia
 ```
 
 After, you can run any file ending in `.jl` using Julia, or use the REPL by typing `julia` in a terminal.
